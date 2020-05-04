@@ -1,0 +1,13 @@
+C:\Projetos\MongoDbCSharp\Aula10\bin\Debug\Aula10.exe.config
+C:\Projetos\MongoDbCSharp\Aula10\bin\Debug\Aula10.exe
+C:\Projetos\MongoDbCSharp\Aula10\bin\Debug\Aula10.pdb
+C:\Projetos\MongoDbCSharp\Aula10\bin\Debug\MongoDB.Bson.dll
+C:\Projetos\MongoDbCSharp\Aula10\bin\Debug\MongoDB.Driver.Core.dll
+C:\Projetos\MongoDbCSharp\Aula10\bin\Debug\MongoDB.Driver.dll
+C:\Projetos\MongoDbCSharp\Aula10\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projetos\MongoDbCSharp\Aula10\bin\Debug\MongoDB.Bson.xml
+C:\Projetos\MongoDbCSharp\Aula10\bin\Debug\MongoDB.Driver.xml
+C:\Projetos\MongoDbCSharp\Aula10\bin\Debug\MongoDB.Driver.Core.xml
+C:\Projetos\MongoDbCSharp\Aula10\obj\Debug\Aula10.exe
+C:\Projetos\MongoDbCSharp\Aula10\obj\Debug\Aula10.pdb
+C:\Projetos\MongoDbCSharp\Aula10\obj\Debug\Aula10.csprojResolveAssemblyReference.cache
